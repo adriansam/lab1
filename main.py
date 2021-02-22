@@ -1,16 +1,13 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# zad1
+a1= 'napis'
+a2= 'napis2'
+b1= 3
+b2= 4
+c1= 2.5
+c2= 3.9
+d1= 5+4j
+d2= 3-2j
+print(type(a1))
+print(type(b1))
+print(type(c1))
+print(type(d1))
